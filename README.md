@@ -1,25 +1,71 @@
+<!--
 <div align="center">
     <img src="https://giffiles.alphacoders.com/211/211255.gif" 
          align="center" 
          style="width: 100%; height: auto; object-fit: cover;" />
 </div>
+-->
+![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+<h1 align="center">Hi 👋, I'm Senithu Jayakody</h1>
+<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
-  
+<!--
+<div align="center">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+-->
+</br>
 
-### <div align="center">I'm Senithu, a full-time full-stack developer 👨‍💻 </div>  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
+```yaml
+developer_stats:
+  name: "Senithu Jayakody"
+  role: "Full-Stack Developer"
+  languages: 
+    - "Golang"
+    - "JavaScript" 
+    - "TypeScript"
+    - "Java"
+    - "Python"
+    - "SQL"
+  frontend:
+    - "React.js"
+    - "Next.js"
+    - "Tailwind css"
+  backend:
+    - "Node.js"
+    - "Spring Boot"
+  cloud_devops:
+    - "Google Cloud Platform"
+    - "Docker"
+    - "CI/CD"
+    - "Firebase"
+    - "Vercel"
+  tools:
+    - "Git"
+    - "GitLab" 
+    - "Postman"
+    - "MySQL"
+    - "MongoDB Atlas"
+  ai_tools:
+    - "ChatGPT"
+    - "Claude"
+    - "Google Gemini"
+recent_achievements:
+    2025:
+      - "Creative Problem Solving & Critical Thinking - Udemy"
+      - "Master Agile & Scrum Basics - Udemy"
+      - "Generative AI and Prompt Engineering - Udemy"
+      - "Career Switch to Cloud & DevOps - Udemy"
+      - "Introduction to Golang - The Great Learning"
+      - "Cyber Security Awareness Training - Udemy"
+      - "Next.js Web Development Mastery - Udemy"
+    2024:
+      - "Cybersecurity Workshop Series - IEEE Computer Society SLIIT"
+      - "Jira Project Management - The Great Learning"
+      - "Postman API Fundamentals Student Expert - Postman"
+    2023:
+      - "Introduction to Cybersecurity - CISCO Networking Academy"
+``` 
 
 ## ⚡ Technologies & Tools
 
@@ -41,9 +87,9 @@
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTel2d76r2Yh-2BpAZ1l1TTM-7bxk5jZea3dJFVjY3aRKxqhZSH5Hj5ZQoHR7Q7d2E7kkY&usqp=CAU" alt="Flask" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js" height="50" /></a>  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -55,14 +101,18 @@
 
 ### ☁️  DevOps  
 <div align="center">  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a> 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.apple.com/macos/" target="_blank"><img style="margin: 10px; background: white; border-radius: 50%; padding: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/1200px-MacOS_logo_%282017%29.svg.png" alt="macOS" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px; background: white; border-radius: 50%; padding: 5px" src="https://images.icon-icons.com/233/PNG/512/Terminal_26230.png" alt="Bash" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://www.microsoft.com/windows/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="50" /></a>  
+<a href="https://vercel.com" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFggf9yNRN9xCYku8XMEkSE0LU9uMhkYbehQ&s" alt="Vercel" width="50" style="margin:10px;" />
+</a>
 </div>
-
 
 
 
@@ -82,5 +132,4 @@
   </tr>
 </table>
 
-
-----
+<h3 align="center">🌱 Learning, building, and growing one commit at a time</h3>
